@@ -162,5 +162,6 @@ deactivate
 Este projeto é para fins educacionais e de aprendizado em Machine Learning.
 
 ---
+# Video:
 
-**🎯 Objetivo Educacional**: Este projeto demonstra uma esteira completa de Machine Learning, desde a análise exploratória até a predição final, seguindo as melhores práticas da área.#
+https://youtu.be/F01EOzRTkZs
